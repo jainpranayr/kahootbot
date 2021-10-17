@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "got": "^11.8.2",
+    "kahoot.js-updated-fixed": "^1.0.0",
+    "random-useragent": "^0.5.0",
+    "ws": "^8.2.2"
+  }
+}
