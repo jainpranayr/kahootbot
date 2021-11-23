@@ -2,8 +2,7 @@ const Kahoot = require("kahoot.js-updated-fixed")
 const colors = require("colors")
 
 if (process.argv.length <= 2) {
-	console.log("Usage: node kahootspam2.js <pin> <amount>".green)
-	console.log("Usage: node kahootspam2.js 000000 250".green)
+	console.log("Usage: node main.js <pin> <amount>".green)
 	process.exit(-1)
 }
 
